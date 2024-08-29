@@ -1,4 +1,4 @@
-# Java研发/搜索系统研发/大模型工程研发
+# Java研发/搜索系统
 
 ##  <i class="fa fa-cogs" aria-hidden="true"></i> 专业技能
 
