@@ -2,13 +2,13 @@
 
 ##  <i class="fa fa-cogs" aria-hidden="true"></i> 专业技能
 
-*   熟悉Java语言，了解Java编译过程、字节码、JVM相关知识。
+*   精通Java语言，熟悉Java编译过程、字节码、JVM相关知识。
 *   掌握面向对象编程思想，熟悉单例、工厂、观察者等常用设计模式。
 *   熟悉SpringBoot、SpringMVC、MyBatis等常用框架，对源码有一定了解。
 *   熟悉ElasticSearch，理解其写入及索引原理，对DSL调优有一定经验。
 *   熟悉MySQL、Redis、Kafka、RabbitMQ 等常用组件，熟悉索引原理、分布式锁。
 *   熟悉HTML、CSS、JavaScript、Vue等前端技术，可完成基本的前端开发任务。
-*   了解Linux常用命令，习惯vim编辑，平时编辑器都会用vim插件。
+*   熟悉Linux常用命令，可shell编程，习惯vim编辑，平时编辑器都会用vim插件。
 *   了解大模型相关理论和实践知识，有RAG系统落地经验。
 
 ##  <i class="fa fa-briefcase" aria-hidden="true"></i> 主要项目
